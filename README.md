@@ -1,3 +1,10 @@
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green?logo=opencv)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-Face%20Mesh-orange)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
+![License](https://img.shields.io/badge/License-MIT-blue)
+
 # 💤 Real-Time Drowsiness Detection System
 
 A real-time **driver drowsiness detection system** built using Python and computer vision.  
